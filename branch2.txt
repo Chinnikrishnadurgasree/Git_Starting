@@ -1,1 +1,1 @@
-This is Hotfix branch (2)
+Created branch 2 which is deleted in development branch
